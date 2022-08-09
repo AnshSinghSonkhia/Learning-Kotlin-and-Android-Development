@@ -24,4 +24,25 @@ fun main() {
 				// As this map is mutable, let's Update Something.
     peopleAges["Fred"] = 31
     println("After Updating Fred's Age -->  $peopleAges")
+    
+        
+    println("---------------------------------")
+    
+    // forEach - It's similar to the for loop, but a little more compact.
+    println("Using   forEach Method")
+	peopleAges.forEach { print("${it.key} is ${it.value}, ") }
+    println()
+    
+    println("---------------------------------")
+    println("Using   map function")
+    println(peopleAges.map { "${it.key} is ${it.value}" })
+    
+    println("---------------------------------")
+    println("Using   map function with joinToString Method")
+    println(peopleAges.map { "${it.key} is ${it.value}" }.joinToString(", ") )
+    
+    println("---------------------------------")
+    val filteredNames = peopleAges.filter { it.key.length < 4 }
+    println(filteredNames)							// To filter names with fewer than 4 characters
+  
 }
