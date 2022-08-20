@@ -29,4 +29,5 @@ Documenting What I'm Learning  -  i.e., KOTLIN
 
 
 ## Screenshots
-![](https://github.com/AnshSinghSonkhia/Learning-Kotlin-and-Android-Development/blob/main/Architecture/Notes/vid1-2-Whats%20Android%20Jetpack.png)
+
+<img src="https://github.com/AnshSinghSonkhia/Learning-Kotlin-and-Android-Development/blob/main/Architecture/Notes/vid1-2-Whats%20Android%20Jetpack.png" width="570" height="400"/>
