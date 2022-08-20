@@ -1,7 +1,7 @@
 # I'm Documenting While Learning Kotlin and Android Development in Android Studio
 Documenting What I'm Learning  -  i.e., KOTLIN
 
-## RESOURCES I USED:
+## 🚀 RESOURCES I USED:
 - [Android Basics in Kotlin Official Course](https://developer.android.com/courses/android-basics-kotlin/course)
 
 **Zain Farhan Sir YouTube**
@@ -17,7 +17,7 @@ Documenting What I'm Learning  -  i.e., KOTLIN
 
 
 
-## Useful Articles:
+## 🗒️ Useful Articles:
 
 - [MVVM (Model View ViewModel) Architecture Pattern in Android](https://www.geeksforgeeks.org/mvvm-model-view-viewmodel-architecture-pattern-in-android/)
 - [MVC (Model View Controller) Architecture Pattern in Android with Example](https://www.geeksforgeeks.org/mvc-model-view-controller-architecture-pattern-in-android-with-example/?ref=lbp)
