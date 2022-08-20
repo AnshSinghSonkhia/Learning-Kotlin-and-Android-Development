@@ -3,9 +3,15 @@ Documenting What I'm Learning  -  i.e., KOTLIN
 
 ## RESOURCES I USED:
 - [Android Basics in Kotlin Official Course](https://developer.android.com/courses/android-basics-kotlin/course)
-- Sir Zain Farhan [Android App Development Course - 103 Videos](https://youtube.com/playlist?list=PL6Fr59UplGvL7q7P3Hg6nYzS45gld-CCI)
-- Fragments: [FRAGMENTS - Android Fundamentals by Philipp Lackner](https://youtu.be/-vAI7RSPxOA)
-- [Navigation Framework with BackStack - ChezzyCode YT](https://youtu.be/zrGvOf2RlRE)
+
+**Zain Farhan Sir YouTube**
+- [Android App Development Course - 103 Videos](https://youtube.com/playlist?list=PL6Fr59UplGvL7q7P3Hg6nYzS45gld-CCI)
+
+**Philipp Lackner YouTube**
+- [FRAGMENTS - Android Fundamentals](https://youtu.be/-vAI7RSPxOA)
+
+**ChezzyCode YouTube**
+- [Navigation Framework with BackStack](https://youtu.be/zrGvOf2RlRE)
 - [Android Notes App with API Integration - MVVM, HILT, Navigation Framework, Coroutines, Retrofit with Login/Signup](https://youtube.com/playlist?list=PLRKyZvuMYSIMO2ebTldbwMTnDCn5klzjS)
 - [Android Architecture Components & Jetpack Playlist](https://youtube.com/playlist?list=PLRKyZvuMYSIO0jLgj8g6sADnD0IBaWaw2)
 
