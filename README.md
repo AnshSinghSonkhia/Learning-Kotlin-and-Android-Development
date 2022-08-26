@@ -31,3 +31,21 @@ Documenting What I'm Learning  -  i.e., KOTLIN
 ## 🔥 Screenshots
 
 <img src="https://github.com/AnshSinghSonkhia/Learning-Kotlin-and-Android-Development/blob/main/Architecture/Notes/vid1-2-Whats%20Android%20Jetpack.png" width="570" height="400"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+<h3> Show Some <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/love.png" title="Love" alt="Love" width="20" height="20"/> by Starring Some of My Repos! </h3>
+
+</div>
